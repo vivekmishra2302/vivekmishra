@@ -1,2 +1,4 @@
 rg =vivek
 location =westus
+rg1=vishnu
+loction =westus
